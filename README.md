@@ -1,16 +1,23 @@
-### Hi there 👋
+![JTC Banner](https://cdn.discordapp.com/attachments/1039950220894687235/1046371871937003550/image.png)
 
-<!--
-**Zecuss/Zecuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola
+Soy una persona, que le gusta programar, me encanta aprender cosas nuevas.
 
-Here are some ideas to get you started:
+- 💻 Programador de Discord.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧩 Proyectos
+Soy de crear nuevos proyectos algunos mueren o no son los suficientemente decente para estar aqui.
+
+- Importantes
+   - [Reak](https://discord.gg/JyeGTfCvKt) Es un Bot Multifuncional que le falta muy poco para verificarse.
+   - [EliteRP](https://discord.gg/eliteroleplay) Es un servidor de GTA que yo hice el bot de Discord y ayude con el Discord.
+
+
+# 📨 Contacto
+Me podeis contactar por Discord que es lo que mas utilizo.
+
+Mi discord es --> JTC#0001
+
+# 📊 Github Status
+
+![JTC Status](https://github-readme-stats.vercel.app/api?username=zecuss&show_icons=true&theme=radical)
